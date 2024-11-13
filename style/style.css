@@ -44,10 +44,17 @@ nav a{
 }
 .header{
 	background-color: #fff8f3;
-	background-image: url('../images/rainbow.jpg');
+	background-image: url('../images/header_bg.png');
 	background-repeat: no-repeat;
 	background-position: bottom right;
 	
+}
+.developer{
+	
+	background-image: url('../images/developer.png');
+	background-repeat: no-repeat;
+	background-position: left;
+	margin-left: 50px;
 }
 .banner{
 	padding: 30px 30px 0px 150px;
@@ -122,10 +129,7 @@ main section{
 	background: white;
 	box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
-.skill img{
-	width: 100px;
-	height: 100px;
-}
+
 .skill-description{
 	color: #757575;
 
